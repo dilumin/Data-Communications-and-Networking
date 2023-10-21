@@ -1,0 +1,14 @@
+[
+{
+  "directory": "F:/University/Semester 3/Data Communications and Network/Lab2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\test2.dir\\lab2.c.obj -c \"F:\\University\\Semester 3\\Data Communications and Network\\Lab2\\lab2.c\"",
+  "file": "F:/University/Semester 3/Data Communications and Network/Lab2/lab2.c",
+  "output": "CMakeFiles/test2.dir/lab2.c.obj"
+},
+{
+  "directory": "F:/University/Semester 3/Data Communications and Network/Lab2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\test2.dir\\mypcm.c.obj -c \"F:\\University\\Semester 3\\Data Communications and Network\\Lab2\\mypcm.c\"",
+  "file": "F:/University/Semester 3/Data Communications and Network/Lab2/mypcm.c",
+  "output": "CMakeFiles/test2.dir/mypcm.c.obj"
+}
+]
